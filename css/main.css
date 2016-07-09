@@ -1,5 +1,5 @@
 body{
-	width: 641px;
+	width: 100%;
 
 }
 
@@ -11,6 +11,7 @@ body{
 	text-align: center;
 	color: #F29722;
 	padding: 50px 0 0 0;
+    font-family: 'Open Sans', sans-serif;
 }
 /*Wrapper*/
 .wrapper{
