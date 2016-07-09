@@ -1461,13 +1461,13 @@ kbd {
   -webkit-appearance: none;
   transition: background-color 0.25s ease-out, color 0.25s ease-out;
   vertical-align: middle;
-  border: 1px solid transparent;
-  border-radius: 0;
+  border: 1px solid #393C41;
+  border-radius: 50px;
   padding: 0.85em 1em;
   margin: 0 0 1rem 0;
-  font-size: 0.9rem;
-  background-color: #2199e8;
-  color: #fefefe; }
+  font-size: 25px;
+  background-color: #393C41;
+  color: #F39823; }
   [data-whatinput='mouse'] .button {
     outline: 0; }
   .button:hover, .button:focus {
