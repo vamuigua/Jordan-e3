@@ -508,7 +508,7 @@ button {
   margin-left: 8.33333%; }
 
 .small-3 {
-  width: 45%; }
+  width: 25%; }
 
 .small-push-3 {
   position: relative;
@@ -1462,12 +1462,12 @@ kbd {
   transition: background-color 0.25s ease-out, color 0.25s ease-out;
   vertical-align: middle;
   border: 1px solid transparent;
-  border-radius: 55px;
-  padding: 40px 100px;
-  margin: 210px 0 1rem 30px;
-  font-size: 30px;
-  background-color: #3D4146;
-  color: #F39823; }
+  border-radius: 0;
+  padding: 0.85em 1em;
+  margin: 0 0 1rem 0;
+  font-size: 0.9rem;
+  background-color: #2199e8;
+  color: #fefefe; }
   [data-whatinput='mouse'] .button {
     outline: 0; }
   .button:hover, .button:focus {
